@@ -1,0 +1,23 @@
+{
+  "name": "employees-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odanilosalgado/employees-api.git"
+  },
+  "author": "danilo salgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odanilosalgado/employees-api/issues"
+  },
+  "homepage": "https://github.com/odanilosalgado/employees-api#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1"
+  }
+}
